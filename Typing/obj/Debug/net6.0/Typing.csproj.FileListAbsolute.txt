@@ -1,0 +1,17 @@
+C:\Users\paulscriptum\source\repos\Typing\Typing\obj\Debug\net6.0\Typing.csproj.AssemblyReference.cache
+C:\Users\paulscriptum\source\repos\Typing\Typing\obj\Debug\net6.0\Typing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulscriptum\source\repos\Typing\Typing\obj\Debug\net6.0\Typing.AssemblyInfoInputs.cache
+C:\Users\paulscriptum\source\repos\Typing\Typing\obj\Debug\net6.0\Typing.AssemblyInfo.cs
+C:\Users\paulscriptum\source\repos\Typing\Typing\obj\Debug\net6.0\Typing.csproj.CoreCompileInputs.cache
+C:\Users\paulscriptum\source\repos\Typing\Typing\bin\Debug\net6.0\Typing.exe
+C:\Users\paulscriptum\source\repos\Typing\Typing\bin\Debug\net6.0\Typing.deps.json
+C:\Users\paulscriptum\source\repos\Typing\Typing\bin\Debug\net6.0\Typing.runtimeconfig.json
+C:\Users\paulscriptum\source\repos\Typing\Typing\bin\Debug\net6.0\Typing.dll
+C:\Users\paulscriptum\source\repos\Typing\Typing\bin\Debug\net6.0\Typing.pdb
+C:\Users\paulscriptum\source\repos\Typing\Typing\obj\Debug\net6.0\Typing.dll
+C:\Users\paulscriptum\source\repos\Typing\Typing\obj\Debug\net6.0\refint\Typing.dll
+C:\Users\paulscriptum\source\repos\Typing\Typing\obj\Debug\net6.0\Typing.pdb
+C:\Users\paulscriptum\source\repos\Typing\Typing\obj\Debug\net6.0\Typing.genruntimeconfig.cache
+C:\Users\paulscriptum\source\repos\Typing\Typing\obj\Debug\net6.0\ref\Typing.dll
+C:\Users\paulscriptum\source\repos\Typing\Typing\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\paulscriptum\source\repos\Typing\Typing\obj\Debug\net6.0\Typing.csproj.CopyComplete

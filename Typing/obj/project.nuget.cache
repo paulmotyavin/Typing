@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UuZ7u/mUm4kXFw94rg9P4i1atYcPn50Gy4e2XGS6aylzg/b/o+8ECBMMOuFJsi+vWDmhz4IW3EJBTgspnVJA6g==",
+  "dgSpecHash": "N9RZQoCEwQmaSv5U7XuWLsq9NmDdQxjV5FE2DSxtGHQKywnBXpXxeWcq6zTvtPOt58tNEiTpu2RybsAzgQfr9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\paulscriptum\\source\\repos\\Typing\\Typing\\Typing.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\paulscriptum\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
